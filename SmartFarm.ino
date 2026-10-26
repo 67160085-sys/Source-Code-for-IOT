@@ -10,6 +10,7 @@
 #include <Adafruit_SSD1306.h>
 #include <DHT.h>
 // — WiFi Credentials —
+// kimimeto companygi
 char ssid[] = "Rungkub";
 char pass[] = "12345678";
 // — OLED Display Configuration (I2C) —
